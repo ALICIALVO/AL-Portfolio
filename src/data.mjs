@@ -26,7 +26,7 @@ const projects = [
     desc: 'A sleek portfolio site with dark and light themes, smooth animations, and responsive design. Built with React.',
     technologies: ['React.js'],
     github: 'https://github.com/ALICIALVO/AL-Portfolio.git',
-    live: 'https://web-chat-app-omor.onrender.com/',
+    live: 'https://al-portfolio-1vib.onrender.com',
   },
   
 ];
