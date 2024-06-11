@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { Container, HighlightedLink } from '../styles/globalStyles';
-import avatar from '../../public/assets/avatar.jpg';
+import avatar from '/assets/avatar.jpg';
 import { FiDownload } from 'react-icons/fi';
 import { BsGithub, BsLinkedin } from 'react-icons/bs';
 
