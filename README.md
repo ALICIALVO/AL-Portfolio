@@ -1,7 +1,7 @@
 <h1 style="color:#2aa884" align="center" id="title">My Portfolio</h1>
 
 <p align="center">
-  <img src="./public/images/main.jpeg" alt="project-image" width="600">
+  <img src="./public/images/main.jpeg" alt="project-image" width="800">
 </p>
 
 <h1 style="color:#2aa884" align="center">Welcome to AL Portfolio!</h1>
