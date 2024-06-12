@@ -17,7 +17,7 @@ const projects = [
     desc: 'To-Do list and notes app built with Vanilla JS. Manage tasks and add quick notes on the go. Simple and efficient.',
     technologies: ['React.js'],
     github: 'https://github.com/ALICIALVO/to-do-list-app-alicia-yossef.git',
-    live: 'https://web-chat-app-omor.onrender.com/',
+    live: 'https://to-do-list-vanilajs.netlify.app/',
   },
   {
     id: nanoid(),
