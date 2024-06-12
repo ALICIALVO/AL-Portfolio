@@ -1,4 +1,4 @@
-<h1 style="color:#2aa884" align="center" id="title">My Portfolio</h1>
+<h1 style="color:#2aa884" align="center" id="title">AL Portfolio</h1>
 
 <p align="center">
   <img src="./public/images/main.jpeg" alt="project-image" width="800">
