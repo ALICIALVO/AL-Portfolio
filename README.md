@@ -1,10 +1,10 @@
 <h1 style="color:#2aa884" align="center" id="title">My Portfolio</h1>
 
 <p align="center">
-  <img src="./assets/images/portfolio.png" alt="project-image" width="600">
+  <img src="./public/images/main.jpeg" alt="project-image" width="600">
 </p>
 
-<h1 style="color:#2aa884" align="center">Welcome to My Portfolio!</h1>
+<h1 style="color:#2aa884" align="center">Welcome to AL Portfolio!</h1>
 <p align="center" id="description">Showcasing my work, skills, and projects using modern web development technologies.<br> This portfolio is designed to provide a comprehensive view of my capabilities and experiences.
 <br>Built with a dynamic front-end powered by React, and styled using Material-UI, it represents the best of modern web development.<br> Dive in and explore my projects, skills, and more!
 
