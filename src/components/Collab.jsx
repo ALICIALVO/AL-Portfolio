@@ -9,7 +9,7 @@ const contactIcons = [
   },
   {
     url: './icons/linkedin.svg',
-    linkTo: 'https://www.linkedin.com/in/dineshrout7/',
+    linkTo: 'https://www.linkedin.com/in/alicia-lvovsky-a478a3287/',
     altText: 'linkedin',
   },
 ];
