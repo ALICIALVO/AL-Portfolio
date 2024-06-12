@@ -4,7 +4,7 @@ import { Container } from '../styles/globalStyles';
 const contactIcons = [
   {
     url: './icons/gmail.svg',
-    linkTo: 'mailto:rddinesh779@example.com',
+    linkTo: 'mailto:alicialevovsky@gmail.com',
     altText: 'gmail',
   },
   {
